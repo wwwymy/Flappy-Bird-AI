@@ -7,3 +7,5 @@ This can be installed using the pip command, e.g:
 pip install pygame
 pip install neat-python
 ```
+
+### Reference link:https://medium.com/analytics-vidhya/how-i-built-an-ai-to-play-flappy-bird-81b672b66521
